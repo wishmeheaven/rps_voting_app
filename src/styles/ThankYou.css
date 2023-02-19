@@ -1,0 +1,15 @@
+.flex {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  /* background: url(../img/vote-intro.jpg) no-repeat center center/contain; */
+}
+
+h1 {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
